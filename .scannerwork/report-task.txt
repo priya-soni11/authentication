@@ -1,0 +1,6 @@
+projectKey=login-signup
+serverUrl=https://sonarqube.sa-labs.info
+serverVersion=9.4.0.54424
+dashboardUrl=https://sonarqube.sa-labs.info/dashboard?id=login-signup
+ceTaskId=AYk-xhaaZeYiiaE54T2I
+ceTaskUrl=https://sonarqube.sa-labs.info/api/ce/task?id=AYk-xhaaZeYiiaE54T2I

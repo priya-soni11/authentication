@@ -5,8 +5,9 @@ type Data = {
   name: string
 }
 
-export default function handler(
-  req: NextApiRequest,
+
+export default function data(
+  _req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
   res.status(200).json({ name: 'John Doe' })
